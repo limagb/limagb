@@ -30,12 +30,7 @@
 
 
 ## My Stats
-<!-- <p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limagb&show_icons=true&theme=aura" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=limagb&theme=blue-green&layout=compact&exclude_lang=java+r" />
-</a>
-</p> -->
+
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=limagb&show_icons=true&theme=aura)](https://github.com/limagb/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limagb&theme=blue-green)](https://github.com/limagb/github-readme-stats)
