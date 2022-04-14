@@ -43,10 +43,11 @@
 
 ##  🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<div>
 <a href="https://github.com/limagb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gabriel-binda-lima-8a224b109/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gabrielbinda84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
 <!---
 limagb/limagb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
