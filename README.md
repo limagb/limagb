@@ -20,7 +20,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -38,6 +37,8 @@
 </a>
 </p> -->
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=limagb&show_icons=true&theme=aura)](https://github.com/limagb/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limagb&theme=blue-green)](https://github.com/limagb/github-readme-stats)
 
 
 ##  🤝🏻 &nbsp;Connect with Me
