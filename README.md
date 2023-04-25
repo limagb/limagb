@@ -6,7 +6,7 @@
 
 - 💡 &nbsp; Lifelong learner. Exploring new technologies. 
 - 🎓 &nbsp; B.Sc. in Computer Science.
-- 👨🏻‍💻 &nbsp; I’m currently studying web development, learning new stuff and refreshing my knowledge on topics of the three fundamental technologies – HTML, CSS and Javascript.
+- 👨🏻‍💻 &nbsp; I’m currently studying web development, learning new stuff and refreshing my knowledge on topics of the three fundamental web technologies – HTML, CSS and Javascript.
 
 
 ### 🛠 &nbsp;Tech Stack
